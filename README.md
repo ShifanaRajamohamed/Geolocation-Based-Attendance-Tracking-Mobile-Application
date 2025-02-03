@@ -1,5 +1,6 @@
 # Geolocation-Based-Attendance-Tracking-Mobile-Application
 Automated employee attendance tracking system using Bluetooth Low Energy (BLE) and Geolocation
+
 This mobile application aims automates employee attendance tracking using a combination of Bluetooth Low Energy (BLE) technology and geolocation-based tracking. The application aims to securely log check-ins and check-outs through Bluetooth beacons placed in office premises and manual geolocation-based entries for offsite work. This system ensures automated ,accuracy and tamper-proof records, using rolling codes and token-based authentication.
 
 TECHNICAL APPROACH:
